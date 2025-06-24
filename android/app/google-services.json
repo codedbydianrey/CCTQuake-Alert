@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "512082805543",
+    "firebase_url": "https://cctquake-75f98-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cctquake-75f98",
+    "storage_bucket": "cctquake-75f98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512082805543:android:1bd08fe0e82d7369949f02",
+        "android_client_info": {
+          "package_name": "com.example.cctquake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9NOSpS9lg8Elq50Q0Xem8E6N6oMsbmnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

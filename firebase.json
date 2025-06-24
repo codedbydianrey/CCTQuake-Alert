@@ -1,0 +1,45 @@
+{
+  "firestore": {
+    "rules": "(firestore.rules)",
+    "indexes": "(firestore.indexes.json)"
+  },
+  "emulators": {
+    "firestore": {
+      "port": 8080
+    },
+    "database": {
+      "port": 9000
+    },
+    "hosting": {
+      "port": 5000
+    },
+    "ui": {
+      "enabled": true
+    },
+    "singleProjectMode": true
+  },
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "cctquake-75f98",
+          "appId": "1:512082805543:android:1bd08fe0e82d7369949f02",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "cctquake-75f98",
+          "configurations": {
+            "android": "1:512082805543:android:1bd08fe0e82d7369949f02",
+            "ios": "1:512082805543:ios:302783b7394511f4949f02"
+          }
+        }
+      }
+    }
+  },
+  "functions": {}
+}

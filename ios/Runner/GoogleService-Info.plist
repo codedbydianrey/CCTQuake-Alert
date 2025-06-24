@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>638493735658-adbme72gfqbldecfdil22cim0rj9g8ue.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.638493735658-adbme72gfqbldecfdil22cim0rj9g8ue</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDYwRzq2VTLmddBERJQPyDLtnBQnBxaBSg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>638493735658</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.cctquake</string>
+	<key>PROJECT_ID</key>
+	<string>cctquake-56c75</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cctquake-56c75.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:638493735658:ios:ebbfce0ed864bf0f5b3593</string>
+	<key>DATABASE_URL</key>
+	<string>https://cctquake-56c75-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
